@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Nada Ali - CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+    }
+    
+    h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    
+    h2 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+    
+    .section {
+      margin-bottom: 20px;
+    }
+    
+    .contact-info {
+      margin-bottom: 10px;
+    }
+    
+    .skills {
+      margin-bottom: 10px;
+    }
+    
+    .certifications {
+      margin-bottom: 10px;
+    }
+    
+    .profile-pic {
+      float: left;
+      margin-right: 10px;
+      margin-bottom: 10px;
+    }
+    
+    .row {
+      display: flex;
+      margin-bottom: 10px;
+    }
+    
+    .column {
+      flex: 50%;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="row">
+    <div class="column">
+      <h1>
+        <img src="Pfp.jpeg" alt="Profile Picture" class="profile-pic">
+        Nada Ali
+      </h1>
+    </div>
+    <div class="column">
+      <div class="contact-info">
+        <p>Phone: 0507946462</p>
+        <p>Email: nadaali.almutiri@gmail.com</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>SUMMARY</h2>
+    <p>Information technology student</p>
+  </div>
+
+  <div class="section">
+    <h2>CONTACT</h2>
+    <div class="contact-info">
+      <p>Phone: 0507946462</p>
+      <p>Email: nadaali.almutiri@gmail.com</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>TECHNICAL SKILLS</h2>
+    <ul class="skills">
+      <li>Proficient in Microsoft Office Suite (Word, Excel, PowerPoint)</li>
+      <li>Familiarity with programming languages such as Java, Python, C, C++, PHP, CSS, HTML, JavaScript</li>
+      <li>Knowledge of data modeling and database design principles</li>
+      <li>Experience with database management systems (DBMS) like MySQL or SQL Server</li>
+      <li>Understanding of network protocols and TCP/IP fundamentals</li>
+      <li>Strong problem-solving and troubleshooting skills in a technical environment</li>
+      <li>Familiarity with Windows and Linux</li>
+      <li>Knowledge of cloud computing platforms (AWS, Azure) and their database services</li>
+      <li>Understanding of data warehousing concepts and tools</li>
+      <li>Familiarity with data visualization using Power BI</li>
+      <li>Proficient in using version control systems like Git</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>CERTIFICATIONS</h2>
+    <ul class="certifications">
+      <li>Oracle Database 12c: Basic SQL</li>
+      <li>Oracle Database 12c: Advanced SQL</li>
+      <li>Database Foundations</li>
+      <li>Oracle Database 12c: Security</li>
+      <li>Oracle Database 12c: Backup and Recovery</li>
+      <li>COMPTIA A+</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>SKILLS</h2>
+    <ul>
+      <li>Fluent in English and Arabic (spoken and written)</li>
+      <li>Strong leadership abilities</li>
+      <li>Excellent organizational and time management skills</li>
+      <li>Proficient in Oracle Database 12c and SQL</li>
+      <li>Knowledge of database security and backup and recovery procedures</li>
+      <li>Strong problem-solving and analytical skills</li>
+      <li>Excellent communication and interpersonal skills</li>
+    </ul>
+  </div>
+</body>
+</html>
